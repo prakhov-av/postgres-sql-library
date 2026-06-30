@@ -1,3 +1,3 @@
 UPDATE products
-SET price = 500
+SET price = 2.49
 WHERE id = 1;
