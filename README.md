@@ -7,3 +7,5 @@ insert_data.sql
 select_queries.sql
 
 update_queries.sql
+
+delete_queries.sql
